@@ -6,7 +6,7 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 
 ## Table Of Contents
 
-### Tutorials
+### Tutorials for better understanding
 
 ### Introduction to Neural Networks
 
